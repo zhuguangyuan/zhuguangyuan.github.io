@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-03-11T15:28:33.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="P4HiyVr6ihxLDeJHLDxu" version="21.7.5" type="device" pages="14">
+<mxfile host="Electron" modified="2024-03-15T15:00:22.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="_htshkhp8t641meWgL06" version="21.7.5" type="device" pages="14">
   <diagram id="CGuf4kKeBAUS1O602x5U" name="分布式系统技术栈">
-    <mxGraphModel dx="1143" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2470,7 +2470,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4gB9GvVgm0TRkSWjnSoO" name="JVM">
-    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="567" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8246,7 +8246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HLv8ew8VVoAIYQcDrOqy" name="廖雪峰交易所">
-    <mxGraphModel dx="810" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8458,7 +8458,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cuHnjz4j1AYnufiVPA8p" name="黑马商城">
-    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8507,13 +8507,13 @@
           <mxGeometry x="300" y="170" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVMv0p86rQSriO7xoqVc-1" value="Nacos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="520" y="370" width="100" height="30" as="geometry" />
+          <mxGeometry x="350" y="450" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="U-Ac_SZwa3GM6E7ovsvA" name="Brain">
-    <mxGraphModel dx="663" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="567" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8704,71 +8704,188 @@
         <mxCell id="4x6vdVu0HgqI1NbTQe7I-3" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#fa6800&quot;&gt;极度的专注，控制能量，朝一个方向流动灌注&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;我是软件系统专家，调用自己的知识经验来构建软件系统&lt;/li&gt;&lt;li&gt;我是企业家，调动周围的人力、物力、财力来解决社会问题&lt;br&gt;&lt;/li&gt;&lt;li&gt;我是一个生意人，通过帮助客户解决问题，来获得财富&lt;/li&gt;&lt;li&gt;我是演说家，教育、感染、影响别人&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1010" y="260" width="360" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="HW2N4a62YSOXQj3C3vr0-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="HW2N4a62YSOXQj3C3vr0-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="1020" as="sourcePoint" />
-            <mxPoint x="310" y="1020" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HW2N4a62YSOXQj3C3vr0-2" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="HW2N4a62YSOXQj3C3vr0-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="1045" as="sourcePoint" />
-            <mxPoint x="160" y="885" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HW2N4a62YSOXQj3C3vr0-8" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" target="HW2N4a62YSOXQj3C3vr0-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="1160" as="sourcePoint" />
-            <mxPoint x="160" y="1000" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HW2N4a62YSOXQj3C3vr0-7" value="消极" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1070" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HW2N4a62YSOXQj3C3vr0-9" value="" style="endArrow=none;html=1;rounded=0;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="HW2N4a62YSOXQj3C3vr0-7" target="HW2N4a62YSOXQj3C3vr0-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="1080" as="sourcePoint" />
-            <mxPoint x="160" y="940" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HW2N4a62YSOXQj3C3vr0-6" value="积极" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="140" y="950" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="HW2N4a62YSOXQj3C3vr0-10" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="HW2N4a62YSOXQj3C3vr0-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="1020" as="sourcePoint" />
-            <mxPoint x="250" y="1020" as="targetPoint" />
+            <mxPoint x="150" y="1440" as="sourcePoint" />
+            <mxPoint x="390" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HW2N4a62YSOXQj3C3vr0-5" value="无力" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="70" y="1010" width="40" height="20" as="geometry" />
+        <mxCell id="HW2N4a62YSOXQj3C3vr0-5" value="能量涣散，无力" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1430" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HW2N4a62YSOXQj3C3vr0-12" value="" style="endArrow=none;html=1;rounded=0;endFill=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="HW2N4a62YSOXQj3C3vr0-5" target="HW2N4a62YSOXQj3C3vr0-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="1020" as="sourcePoint" />
-            <mxPoint x="280" y="1020" as="targetPoint" />
+            <mxPoint x="230" y="1440" as="sourcePoint" />
+            <mxPoint x="420" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HW2N4a62YSOXQj3C3vr0-4" value="有力" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1010" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HW2N4a62YSOXQj3C3vr0-15" value="&lt;ul&gt;&lt;li&gt;勇敢&lt;/li&gt;&lt;li&gt;掌控&lt;/li&gt;&lt;li&gt;自信&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="180" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HW2N4a62YSOXQj3C3vr0-16" value="&lt;ul&gt;&lt;li&gt;愤怒&lt;/li&gt;&lt;li&gt;蔑视&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="180" y="1050" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HW2N4a62YSOXQj3C3vr0-17" value="&lt;ul&gt;&lt;li&gt;恐惧&lt;/li&gt;&lt;li&gt;焦虑&lt;/li&gt;&lt;li&gt;嫉妒&lt;/li&gt;&lt;li&gt;悲伤&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="20" y="1050" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HW2N4a62YSOXQj3C3vr0-18" value="&lt;ul&gt;&lt;li&gt;乖巧&lt;/li&gt;&lt;li&gt;羡慕&lt;/li&gt;&lt;li&gt;自卑&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="20" y="930" width="120" height="60" as="geometry" />
+        <mxCell id="HW2N4a62YSOXQj3C3vr0-4" value="能量凝聚，有力" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="580" y="1430" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HW2N4a62YSOXQj3C3vr0-19" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: 楷体, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;能力感&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 无力 -&amp;gt; 信心&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 恐惧 -&amp;gt; 愤怒&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 悲伤 -&amp;gt; 高兴&lt;/div&gt;&lt;div&gt;关爱感&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 讨厌自己 -&amp;gt; 喜欢自己&lt;/div&gt;&lt;div&gt;自主感&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 无主 -&amp;gt; 目标感强 知道自己要什么 &lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="651" width="270" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="fvdhRrpBtlLTqhXmqD0p-1" value="&lt;ol&gt;&lt;li&gt;人生苦难重重，这是一个真理&lt;/li&gt;&lt;ol&gt;&lt;li&gt;要想心智成熟，就应该直面问题、解决问题&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;解决问题的能力，是一个人最大的底气，是自信、靠谱，和魅力的根本来源&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;成熟，就是尊重规律，并按规则来办事&lt;br&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;做事都讲究结果，以结果为导向&lt;/li&gt;&lt;li&gt;出问题时不是找借口，而是想着如何才能解决当前问题&lt;/li&gt;&lt;li&gt;不以个人喜好和情绪为标准，而是以目标和规则为标准&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;成功，就是把当下的一件事做成&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;明确想得到什么成果、凝聚能量(自我专注能量、鼓动他人的能量)、失败再试&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;只做最能解决问题的一件事&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;自控，带来力量感和自信心&lt;/li&gt;&lt;ol&gt;&lt;li&gt;健身锻炼，训练对身体的控制&lt;/li&gt;&lt;li&gt;阅读和表达，训练对思维的控制&lt;/li&gt;&lt;li&gt;复盘被拒绝、被冒犯场景。接触不同的人和事物，害怕的事物，是对自己情绪控制能力的训练&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;我的本质，是50万亿细胞组成的独特个体。&lt;/li&gt;&lt;ol&gt;&lt;li&gt;能量，是一切成就的前提。我体能如何，我信念如何，我思维如何，我情绪如何&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;深呼吸，安静下来思路才能正常行走&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;焦虑的人、浮躁的人、如临大敌的人、没有毅力和自控的人，做不成大的事情&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;屏蔽外界干扰，能量专注到自身工作和生活上&lt;/li&gt;&lt;ol style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;快乐的本质：做事极度专注、娱乐完全放松。&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;勇敢追求理想的生活状态，不必活给谁看&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;情绪，是一种能量，一种推动人前行的能量&lt;/li&gt;&lt;ol style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;情绪价值，就是让对方获得积极正向情绪的能力&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;正面去反馈对方的长处，展现他的美，给予情绪按摩&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;可塑性，我的身体和大脑，有强大的可塑性。&lt;/li&gt;&lt;ol&gt;&lt;li&gt;信念，是一个人的最高级统领。不要给自己设置条条框框，遵守规则，但是不要框死自己&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;所谓性格，不过是日常思维习惯、语言习惯、行动习惯的综合&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;胆魄，来源于不断做成事情的激励。自信心、霸气，都源于此&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;个性气质的形成除了受基因控制，就是胎儿时期的妈妈心情影响了&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;学习的本质，是产生联系(理解)、加强联系(记忆)、使用联系(实践调取记忆，应用知识)的过程&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;我的大脑，是一个超级神经网络，每个被我认识的外部事物，在脑中都有相应的记忆结构&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;正向激励，做成事情的小激励，是好奇心和对外探索的前提&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;关注即加强，实践即塑造。&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;不要去挽救即将死亡的人事物&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;要把注意力放在能产生更大效益的优势点上&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;为什么没有全社会将精力放在医疗上？因为衣食住行的生活才是常态，疾病是生活异常的结果&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;人生就两件事，创造生活、享受生活&lt;/li&gt;&lt;ol&gt;&lt;li&gt;工作，是为了创造自己想要的生活。有三个层级的工作&lt;/li&gt;&lt;ol&gt;&lt;li&gt;纯粹的体力活、脑力活&lt;/li&gt;&lt;li&gt;管理工作，一级杠杆&lt;/li&gt;&lt;li&gt;创建自动系统，获得股权&lt;/li&gt;&lt;li&gt;如果没有谋生得到的收入，只有花销和支出，那么就没有形成一个健康的经济系统&lt;/li&gt;&lt;li&gt;做什么工作，就是在过什么样的人生&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;生活，就是为了娱乐身心，获得继续前行的能量&lt;/li&gt;&lt;ol&gt;&lt;li&gt;娱乐是一种耗散活动，不能太长久。太久的假期，会让人沉迷且无力恢复工作状态，所谓假期综合征&lt;/li&gt;&lt;li&gt;娱乐就应该完全放松，而不是时时牵挂着工作，玩不开&lt;/li&gt;&lt;li&gt;追最丰满的老婆，做最狂野的爱；生最健康的孩子，养最自信的崽&lt;/li&gt;&lt;li&gt;衣食住行都可以和周围的人建立关系，扩展社会联系和生活。&lt;/li&gt;&lt;li&gt;商业联系，也可以扩展为友谊。所有关系的本质，都是价值的交换。&lt;/li&gt;&lt;li&gt;以家庭为依托，去创造更多的社会联系。&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;和伴侣的亲密做爱是一种很有意义的娱乐。伴侣，始于颜值联系、思维联系、情绪联系、身体联系&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;工作和享受，并不矛盾。只要凝聚能量对外产生影响的，都是成事的表现。关键是不要摆烂。摆烂，就是浪费生命&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;我为什么而活&lt;/li&gt;&lt;ol&gt;&lt;li&gt;为50万亿细胞的欢呼雀跃&lt;/li&gt;&lt;li&gt;为创造新机体。做爱造小孩，一个升级版的我。&lt;/li&gt;&lt;ol&gt;&lt;li&gt;追最丰满的老婆，做最狂野的爱；生最健康的孩子，养最自信的崽&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;为创造更多的社会联系&lt;/li&gt;&lt;ol&gt;&lt;li&gt;组建家庭是最重要的联系&lt;/li&gt;&lt;li&gt;参加工作，创造价值是获得回报的经济联系&lt;/li&gt;&lt;li&gt;参与其他社会活动，产生广泛的社会影响，是不可忽视的联系&lt;/li&gt;&lt;li&gt;只要有人还记得这个人，这个人就不会死。只有所有人都遗忘了，他才真正死去&lt;/li&gt;&lt;li&gt;关联越多，越有安全感，越有归属感，越有奔头&lt;/li&gt;&lt;li&gt;认识世界，就是在脑中创建专业联系&lt;/li&gt;&lt;li&gt;娶妻生子，就是为了创建夫妻联系，同时延续新生命&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;为了更好的生活条件&lt;/li&gt;&lt;ol&gt;&lt;li&gt;想想沃尔沃S90&lt;/li&gt;&lt;li&gt;想想上海陆家嘴的金融大鳄&lt;/li&gt;&lt;li&gt;想想深交所的大鳄们&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;我的人生如何规划。我的身份定位，我作为什么参与到社会协作中，我和哪些人进行价值交换？&lt;/li&gt;&lt;ol style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li&gt;软件架构师：向各大公司推销自己的软件开发技能，让他们提供一个展示自我的平台&lt;/li&gt;&lt;li&gt;创业者：利用下班时间，参与社会协作，构建社会联系，寻找痛点和资源，构建商业闭环&lt;/li&gt;&lt;li&gt;超级奶爸：喜欢的女孩子就大胆去追，而不要等。她柔软的身体，是我孩子们温暖的家&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;社会的本质，是一群为了自身生存和发展的人组成的群体&lt;/li&gt;&lt;ol&gt;&lt;li&gt;每个人都追求利益。经济是一种利益，情感是另一种利益&lt;/li&gt;&lt;li&gt;相似，是一群人走到一起的最基础原因。相似，则无需耗费太多成本就可以交流&lt;/li&gt;&lt;li&gt;等价交换，是市场经济社会的第一法则。也是人与人之间交往的根本原则&lt;/li&gt;&lt;ol&gt;&lt;li&gt;只有给别人带来利益，才能换回自己想要的利益&lt;/li&gt;&lt;li&gt;找出并积极推销自己的价值。如果还没有，那就锻炼提升&lt;/li&gt;&lt;li&gt;交易产生的地方，才是真正赚钱的地方。普通律师不赚钱，有案源的律师才赚钱。做产品的人不赚钱，做销售的才赚钱&lt;/li&gt;&lt;li&gt;你的价值，根源于你的稀缺性&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;被人重视，这是人的最深刻的诉求。被重视，则会让对方有自我认同，有价值感，从而感觉良好&lt;/li&gt;&lt;li&gt;重视自己，别人才会认为你有价值，才会尊重你&lt;/li&gt;&lt;li&gt;魅力两要素：做事能力 + 温暖程度&lt;/li&gt;&lt;li&gt;向光性：所有人都爱好阳光开朗的人、有能力的人、温暖的人&lt;/li&gt;&lt;li&gt;别人如何认识你？通过你对自己的感觉。你自信大方，那么别人就会觉得你有价值；你唯唯诺诺，别人就会认为你无价值&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;经济和商业&lt;/li&gt;&lt;ol&gt;&lt;li&gt;经济，就是社会中每个主体参与生产交换活动的繁荣程度&lt;/li&gt;&lt;li&gt;商业，和生意，就是交易，就是找出客户，满足客户的需求&lt;/li&gt;&lt;li&gt;交易产生的地方，才是真正赚钱的地方&lt;/li&gt;&lt;ol&gt;&lt;li&gt;普通律师并不赚钱，有案源的律师才赚钱&lt;/li&gt;&lt;li&gt;开发并不赚钱，销售才赚钱。因为直接产生交易，直接带来收益&lt;/li&gt;&lt;li&gt;一个企业的初创，往往源于业务&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;初创者，往往能享受最大红利&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;科技本质，技能本质&lt;/li&gt;&lt;ol style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;科学是对运动规律的总结，技术是遵循科学规律有目的地改造世界的经验和方法。&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;掌握一门技术，能够帮助他人创造出想要的新东西。也可以更好地参与领导和管理&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;但是领导，更重要的是看清事物发展规律、懂得调动资源的能力&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;计算机科学，是一种信息处理的科学，将世界抽象成数据和和算法。&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;对世界万物的运动进行计算模拟，从而得到人类想要的结果。&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;算法工程师，就是将自己脑中的算法外化到程序，让计算机不断执行从而大大提升生产力&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;所有的技术，都是为了解决实际的问题。&lt;/li&gt;&lt;ol style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;每一个组件，都是为了解决特定问题而生的。什么问题？如何解决的？哪些思路？&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;当前我要突破什么心理障碍&lt;/li&gt;&lt;ol&gt;&lt;li&gt;我自己，就能活得朝气蓬勃，充满乐趣&lt;/li&gt;&lt;li&gt;不用等待，想做就立即去做。想看春天的花儿？等女朋友一起？等朋友一起？永远等不到&lt;/li&gt;&lt;li&gt;每一次对外探索，都是对自己内心的丰富。我就是自己生活的主宰，何必等待别人来安排&lt;/li&gt;&lt;li&gt;脾气&lt;/li&gt;&lt;ol&gt;&lt;li&gt;被人反复唠叨的时候容易起逆反心理，情绪一下就起来了。--情绪能量不足，想要的没一样成功&lt;/li&gt;&lt;li&gt;内心得不到安顿&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;" style="rounded=1;html=1;align=left;fontFamily=楷体;fontStyle=1;fontSize=13;labelBorderColor=none;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="885.5" y="410" width="920" height="1740" as="geometry" />
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1170" width="650" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-2" value="&lt;ul style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;意识、舞台、清醒&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;注意力、控制力&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1110" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-3" value="&lt;ul&gt;&lt;li&gt;眼睛&lt;/li&gt;&lt;li&gt;耳朵&lt;/li&gt;&lt;li&gt;嘴巴&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="349" y="1050" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-4" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280.6700000000001" y="1190" as="sourcePoint" />
+            <mxPoint x="280.34000000000003" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-15" value="世界观" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EmhFSa_q8NZI9idOYJQA-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.3077" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-6" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=6;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;endSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474.77" y="1380" as="sourcePoint" />
+            <mxPoint x="474.77" y="1445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-7" value="自卑" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="EmhFSa_q8NZI9idOYJQA-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.2062" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-8" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=6;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;endSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1450" as="sourcePoint" />
+            <mxPoint x="560" y="1515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-9" value="恐惧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="EmhFSa_q8NZI9idOYJQA-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.2062" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-10" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=6;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;endSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474.76999999999987" y="1450" as="sourcePoint" />
+            <mxPoint x="474.76999999999987" y="1515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-11" value="愤怒" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="EmhFSa_q8NZI9idOYJQA-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.2062" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-12" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=6;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;endSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560.0000000000001" y="1380" as="sourcePoint" />
+            <mxPoint x="560.0000000000001" y="1445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-13" value="勇敢" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="EmhFSa_q8NZI9idOYJQA-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.2062" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-14" value="安全：关爱感&lt;br&gt;自主：自主感&lt;br&gt;可控：能力感" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-16" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="527.83" y="1222.5" as="sourcePoint" />
+            <mxPoint x="527.83" y="1287.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-17" value="人生观" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EmhFSa_q8NZI9idOYJQA-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.3077" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-18" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="428.83000000000004" y="1222.5" as="sourcePoint" />
+            <mxPoint x="428.83000000000004" y="1287.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-19" value="价值观" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EmhFSa_q8NZI9idOYJQA-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.3077" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-23" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="134.52" y="1160" as="sourcePoint" />
+            <mxPoint x="134.94000000000003" y="1557.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-24" value="基因累积&lt;br&gt;人种天赋&lt;br&gt;传统艺能" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EmhFSa_q8NZI9idOYJQA-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.3077" y="-1" relative="1" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-29" value="情绪" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1320" width="60" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-30" value="&lt;br&gt;思维&lt;br&gt;认知" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1170" width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EmhFSa_q8NZI9idOYJQA-31" value="前额叶&lt;br&gt;CPU" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="250" y="1110" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9IJsPq_sRYy7IbmpVBs-8" value="&lt;ul&gt;&lt;li&gt;人际本质&lt;/li&gt;&lt;ul&gt;&lt;li&gt;吃饭/能量需求&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;逐利原则，偏好物质资源充足、精神能量富裕的人&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;最低耗能原则，偏好相似和熟悉的人&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;等价交换原则，偏好能量相当的人&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;被人尊重原则，偏好重视自己的人&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;睡觉/休整需求&lt;/li&gt;&lt;ul&gt;&lt;li&gt;生命延续百年的根本奥秘&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;做爱/结合需求&lt;/li&gt;&lt;ul&gt;&lt;li&gt;生命延续的必然机制&lt;/li&gt;&lt;li&gt;范结合：交朋友、做工作&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;人际关系本质：信用储备&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=0;html=1;align=left;fontFamily=楷体;fontStyle=1;fontSize=13;labelBorderColor=none;labelBackgroundColor=none;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="827" y="1170" width="409.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="J9IJsPq_sRYy7IbmpVBs-9" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=6;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;endSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499.77" y="1450" as="sourcePoint" />
+            <mxPoint x="499.77" y="1515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9IJsPq_sRYy7IbmpVBs-10" value="悲伤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="J9IJsPq_sRYy7IbmpVBs-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.2062" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9IJsPq_sRYy7IbmpVBs-11" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=6;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;endSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499.53000000000003" y="1380" as="sourcePoint" />
+            <mxPoint x="499.53000000000003" y="1445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9IJsPq_sRYy7IbmpVBs-12" value="高兴" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="J9IJsPq_sRYy7IbmpVBs-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.2062" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9IJsPq_sRYy7IbmpVBs-13" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=6;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;endSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="1450" as="sourcePoint" />
+            <mxPoint x="530" y="1515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9IJsPq_sRYy7IbmpVBs-14" value="嫉妒" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="J9IJsPq_sRYy7IbmpVBs-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.2062" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9IJsPq_sRYy7IbmpVBs-15" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=6;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;endSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="1380" as="sourcePoint" />
+            <mxPoint x="530" y="1445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9IJsPq_sRYy7IbmpVBs-16" value="敬佩" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="J9IJsPq_sRYy7IbmpVBs-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.2062" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1cXPSlFCxTopgFix57sH-1" value="&lt;ul&gt;&lt;li&gt;科技和商业&lt;/li&gt;&lt;ul&gt;&lt;li&gt;科技，是人类认识世界和改造世界的规律和经验总结&lt;/li&gt;&lt;li&gt;商业，是社会化大生产发展的必然结果。&lt;/li&gt;&lt;li&gt;没有一个人能单独生产出自己想要的全部东西，&lt;/li&gt;&lt;li&gt;所以只能参与一部分生产，获得财富来兑换其他东西&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=0;html=1;align=left;fontFamily=楷体;fontStyle=1;fontSize=13;labelBorderColor=none;labelBackgroundColor=none;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="1170" width="409.5" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="g5BzBgG_A__iQb89ktX2-1" value="&lt;ul&gt;&lt;li&gt;人生本质，人生，就是一个不断面对问题、解决问题的过程&lt;/li&gt;&lt;ul&gt;&lt;li&gt;解决问题，拿到想要的成果。&lt;/li&gt;&lt;li&gt;得到快乐、自信、能力提升、舒适圈扩展、胆魄、财富&lt;/li&gt;&lt;li&gt;只有不断解决新问题的人，才是不断成长的人&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;逃避问题、关注短视频喝酒放纵转移注意力的，都会导致&lt;/li&gt;&lt;ul&gt;&lt;li&gt;时间浪费了&lt;/li&gt;&lt;li&gt;能力得不到提升&lt;/li&gt;&lt;li&gt;心智得不到成长&lt;/li&gt;&lt;li&gt;底气得不到厚实&lt;/li&gt;&lt;li&gt;舒适圈永远把自己框住&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;关注做事，则获得成功，获得快乐。过度放纵，过度娱乐，就是耗散自己，玩物丧志&lt;/li&gt;&lt;li&gt;归属感、安全感的本质，就是掌控感。能掌控，则感到安全、有归属。不能掌控，则不安定&lt;/li&gt;&lt;li&gt;谋生亦谋爱，要大胆，要朝气蓬勃&lt;/li&gt;&lt;li&gt;成功，就是把问题解决掉，把事情做成&lt;/li&gt;&lt;li&gt;成事，有四个要素&lt;/li&gt;&lt;ul&gt;&lt;li&gt;明确具体的目标&lt;/li&gt;&lt;ul&gt;&lt;li&gt;注意力在哪里，成就就会在哪里&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;目标明确，才不会迷茫&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;做最能接近目标的事情&lt;/li&gt;&lt;ul&gt;&lt;li&gt;考虑付出什么，来得到成果&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;只做最能接近目标的事情&lt;/li&gt;&lt;ul&gt;&lt;li&gt;专注的本质，将所有不相关信息赶下舞台，只关注当前事情&lt;br&gt;&lt;/li&gt;&lt;li&gt;思维的本质是不同细胞之间的突触延伸牵手&lt;/li&gt;&lt;li&gt;理解了的本质是新事物和已有知识建立起了连接&lt;/li&gt;&lt;li&gt;记忆的本质是神经联系的加固，且可被调用被回忆起&lt;/li&gt;&lt;li&gt;学会了的本质是能调用记忆，结合当前问题并解决当前问题&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;复盘重试，刻意练习&lt;/li&gt;&lt;ul&gt;&lt;li&gt;学习和成长的本质就是不断重复和修正&lt;/li&gt;&lt;li&gt;兴趣和喜欢，源于不断做成的小奖励&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;li&gt;要有服务和交换意识。想要得到好处，应该首先思考自己能提供什么&lt;/li&gt;&lt;ul&gt;&lt;li&gt;想要升职加薪，那么我能帮助老板解决什么问题呢&lt;br&gt;&lt;/li&gt;&lt;li&gt;想要巨额财富，那么我能帮助付钱的客户解决什么问题呢&lt;/li&gt;&lt;li&gt;想要朋友成群，那么我能帮助朋友解决什么问题呢？我能提供什么情绪价值？&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;自我边界，就是自我舒适圈。何为自我？我的认知，我的舒适圈，就是自我&lt;/li&gt;&lt;li&gt;只要每一步都走在预期上，生命就在我的掌控之中&lt;/li&gt;&lt;ul&gt;&lt;li&gt;远程工作，3月份&lt;/li&gt;&lt;li&gt;买车，旅居，极氪圈，4月份&lt;/li&gt;&lt;li&gt;追女友，520前&lt;/li&gt;&lt;li&gt;结婚生孩子，就520干一炮吧&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=0;html=1;align=left;fontFamily=楷体;fontStyle=1;fontSize=13;labelBorderColor=none;labelBackgroundColor=none;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="129" y="1580" width="570" height="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
